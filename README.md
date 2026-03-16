@@ -150,9 +150,15 @@ https://api.dependal.com
 - API access requires a valid API key
 - Sending availability may depend on account status, domain verification, and plan limits
 
+------------------------------------------------------------------------
+
 ## Documentation
 
-Full API documentation is available in the Dependal docs.
+Full API documentation:
+
+https://dependal.com/docs
+
+------------------------------------------------------------------------
 
 ## Support
 
